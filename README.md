@@ -28,14 +28,6 @@ Monstersweeper is a Minesweeper-inspired RPG game where you defeat weak monsters
 - **PC**:
   - Click on a cell with the mouse to open it.
   - Click on a monster to toggle the displayed value between its level and the sum of levels of adjacent monsters.
-  - Press number keys over unopened cells to mark them.
-
-- **Mobile**:
-  - Tap on a cell to open it.
-  - Tap on a monster to toggle the displayed value between its level and the sum of levels of adjacent monsters.
-  - Press the level button at the bottom of the screen to enter marking mode, then mark any desired cell.
-  - Use drag gestures for scrolling and pinch gestures to zoom in or out.
-
 ---
 
 ## Indicators
